@@ -1,0 +1,4 @@
+fire
+tensorflow
+tensorflow-gpu
+scikit-learn
