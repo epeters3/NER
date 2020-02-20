@@ -1,31 +1,31 @@
                    precision    recall  f1-score   support
 
-          B-ACTOR       0.00      0.00      0.00       845
-      B-CHARACTER       0.00      0.00      0.00        82
-       B-DIRECTOR       0.00      0.00      0.00       431
-          B-GENRE       0.19      0.70      0.30      1066
-           B-PLOT       0.00      0.00      0.00       480
-         B-RATING       1.00      0.01      0.02       479
-B-RATINGS_AVERAGE       0.00      0.00      0.00       488
-         B-REVIEW       0.00      0.00      0.00        53
-           B-SONG       0.00      0.00      0.00        60
-          B-TITLE       0.00      0.00      0.00       592
-        B-TRAILER       0.00      0.00      0.00        33
-           B-YEAR       0.00      0.00      0.00       729
-          I-ACTOR       1.00      0.00      0.00       912
-      I-CHARACTER       0.00      0.00      0.00        71
-       I-DIRECTOR       0.00      0.00      0.00       468
-          I-GENRE       0.00      0.00      0.00       227
-           I-PLOT       0.00      0.00      0.00       439
-         I-RATING       0.00      0.00      0.00       202
-I-RATINGS_AVERAGE       0.00      0.00      0.00       434
-         I-REVIEW       0.00      0.00      0.00        32
-           I-SONG       0.00      0.00      0.00       101
-          I-TITLE       0.00      0.00      0.00       881
-        I-TRAILER       0.00      0.00      0.00         1
-           I-YEAR       0.64      0.56      0.60       651
-                O       0.93      1.00      0.96     68451
+          B-ACTOR       0.85      0.78      0.81       792
+      B-CHARACTER       0.60      0.24      0.34        89
+       B-DIRECTOR       0.84      0.75      0.79       432
+          B-GENRE       0.94      0.93      0.94      1099
+           B-PLOT       0.69      0.61      0.65       479
+         B-RATING       0.97      0.96      0.97       539
+B-RATINGS_AVERAGE       0.78      0.79      0.78       456
+         B-REVIEW       0.00      0.00      0.00        59
+           B-SONG       0.93      0.47      0.62        60
+          B-TITLE       0.70      0.67      0.68       574
+        B-TRAILER       0.79      0.79      0.79        28
+           B-YEAR       0.93      0.94      0.94       738
+          I-ACTOR       0.88      0.85      0.86       839
+      I-CHARACTER       0.74      0.28      0.41        89
+       I-DIRECTOR       0.91      0.75      0.83       463
+          I-GENRE       0.93      0.82      0.87       193
+           I-PLOT       0.52      0.55      0.54       395
+         I-RATING       0.99      0.82      0.90       243
+I-RATINGS_AVERAGE       0.83      0.84      0.83       420
+         I-REVIEW       0.00      0.00      0.00        42
+           I-SONG       0.86      0.64      0.73       112
+          I-TITLE       0.73      0.70      0.72       890
+        I-TRAILER       0.00      0.00      0.00         2
+           I-YEAR       0.97      0.95      0.96       639
+                O       0.98      0.99      0.99     66092
 
-         accuracy                           0.89     78208
-        macro avg       0.15      0.09      0.08     78208
-     weighted avg       0.84      0.89      0.85     78208
+         accuracy                           0.97     75764
+        macro avg       0.73      0.64      0.68     75764
+     weighted avg       0.96      0.97      0.97     75764
